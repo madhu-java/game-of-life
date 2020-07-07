@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" filepath="$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" group="Game_of_Life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Game_of_Life/util" />
+    </modules>
+  </component>
+</project>
